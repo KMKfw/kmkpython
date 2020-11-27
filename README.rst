@@ -1,3 +1,19 @@
+KMKPython
+=========
+
+**KMKPython** is a fork of Adafruit's `CircuitPython
+<https://github.com/adafruit/circuitpython>`_ optimized for usage with the `KMK
+Firmware project <https://github.com/KMKfw/kmk_firmware>`_ on mechanical
+keyboards. The differences are largely related to optimizing bundle size and
+building in useful libraries (Bluetooth, OLED, etc.). Adafruit does not endorse
+or support KMKPython - please reach out to the KMK dev team before filing
+upstream bugs! We can be reached in the issue tracker on Github, or `on Matrix
+at #kmkfw:klar.sh <https://matrix.to/#/#kmkfw:klar.sh>`_. The rest of this
+README is left as was written by Adafruit and contributors upstream.
+
+Currently targeted upstream tag: `6.0.0
+<https://github.com/adafruit/circuitpython/tree/6.0.0>`_.
+
 CircuitPython
 =============
 
