@@ -153,3 +153,6 @@
 [submodule "ports/esp32s2/esp-idf"]
 	path = ports/esp32s2/esp-idf
 	url = https://github.com/espressif/esp-idf.git
+[submodule "frozen/Adafruit_CircuitPython_SSD1306"]
+	path = frozen/Adafruit_CircuitPython_SSD1306
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1306
