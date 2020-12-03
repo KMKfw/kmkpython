@@ -140,7 +140,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DRV2605
 [submodule "frozen/Adafruit_CircuitPython_BLE"]
 	path = frozen/Adafruit_CircuitPython_BLE
-	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE
+	url = https://github.com/KMKfw/Adafruit_CircuitPython_BLE.git
 [submodule "frozen/Adafruit_CircuitPython_BLE_Apple_Notification_Center"]
 	path = frozen/Adafruit_CircuitPython_BLE_Apple_Notification_Center
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center
